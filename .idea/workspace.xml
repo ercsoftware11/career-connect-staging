@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c5156ea-4833-4443-9d6e-879d2baf5c0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1hOzfm1vxdtv1wZp3Hyl331gVjs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c5156ea-4833-4443-9d6e-879d2baf5c0c" name="Default Changelist" comment="" />
+      <created>1599897031940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599897031940</updated>
+      <workItem from="1599897037416" duration="6871000" />
+      <workItem from="1599974892360" duration="4224000" />
+      <workItem from="1600086872624" duration="6185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="995" y="269" width="641" height="630" key="find.popup" timestamp="1600089121896">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="2915" y="279" width="641" height="654" key="find.popup/1920.0.2560.1080/0.27.1920.1053/4480.0.1920.1080@1920.0.2560.1080" timestamp="1599979475957" />
+    <state x="995" y="269" width="641" height="630" key="find.popup/2560.0.1536.832/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1600089121896" />
+    <state x="936" y="240" key="run.anything.popup" timestamp="1600089558247">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="936" y="240" key="run.anything.popup/2560.0.1536.832/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1600089558247" />
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599897474020">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup/2560.0.1536.832/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1599897474020" />
+  </component>
+</project>
